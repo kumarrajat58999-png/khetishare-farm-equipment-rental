@@ -4,7 +4,7 @@
 
 🚜 **A Smart Agricultural Equipment Rental Platform**
 
-[🌐 Visit Live Website](https://kheti-gear-share.lovable.app)
+[🌐 Visit Live Website](https://khetishare.lovable.app)
 
 ## 💡 About KhetiShare
 
@@ -42,7 +42,7 @@ To empower farmers by making agricultural machinery accessible and promoting aff
 
 ## 🔗 Live Demo
 
-https://kheti-gear-share.lovable.app
+[🚀 https://khetishare.lovable.app](https://khetishare.lovable.app)
 
 ## ⚠️ Disclaimer
 
